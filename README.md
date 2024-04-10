@@ -13,8 +13,8 @@ The project uses deep learning models to classify chest X-ray images:
 
 ## Repository Contents
 
-- `train.ipynb`: This Jupyter notebook includes all preprocessing, modeling, training, and evaluation code along with detailed explanations.
-- `report.pdf`: Contains a comprehensive report detailing the methodologies, experiments, and findings of the project, structured as a scientific paper.
+- [`train.ipynb`](train.ipynb): This Jupyter notebook includes all preprocessing, modeling, training, and evaluation code along with detailed explanations.
+- [`report.pdf`](report.pdf): Contains a comprehensive report detailing the methodologies, experiments, and findings of the project, structured as a scientific paper.
 
 ## Using the Notebook
 
